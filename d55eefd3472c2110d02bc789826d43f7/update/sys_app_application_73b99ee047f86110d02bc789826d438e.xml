@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>IPAddressInfo</name>
+        <order>100</order>
+        <roles>x_122195_iplookup.ipaddressinfo_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-31 19:21:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>73b99ee047f86110d02bc789826d438e</sys_id>
+        <sys_name>IPAddressInfo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPLookup" source="x_122195_iplookup">d55eefd3472c2110d02bc789826d43f7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">d55eefd3472c2110d02bc789826d43f7</sys_scope>
+        <sys_update_name>sys_app_application_73b99ee047f86110d02bc789826d438e</sys_update_name>
+        <title>IPAddressInfo</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
